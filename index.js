@@ -51,22 +51,22 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: Xeon ','silver'))
-console.log(color('🐶 GITHUB: DGXeon ','silver'))
-console.log(color('🐶 WA NUMBER: +916909137213 ','silver'))
-console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
+console.log(color('\n🐶 YT CHANNEL: Renz GTPS ','silver'))
+console.log(color('🐶 GITHUB: renzgans ','silver'))
+console.log(color('🐶 WA NUMBER: +6281250365581 ','silver'))
+console.log(color('  🦄Renz Bot Inc. 2022🦄','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
-    console.log(color('🐶', 'cyan'), color('https://wa.me/916909137213'))
-    console.log(color('🐶', 'cyan'), color('Cheems Bot Is Online...', 'pink'))
+    console.log(color('🐶', 'cyan'), color('https://wa.me/6281250365581'))
+    console.log(color('🐶', 'cyan'), color('Renz Bot Is Online...', 'pink'))
     console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
-    console.log(color('🐶','red'), color('Thanks For Using Cheems Bot', 'white'))
+    console.log(color('🐶','red'), color('Thanks For Using Renz Bot', 'white'))
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Subscribe Xeon','Safari','1.0.0'],
+        browser: ['Subscribe Renz'],
         auth: state,
         version
     })

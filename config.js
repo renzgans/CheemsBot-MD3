@@ -43,20 +43,20 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['62812500365581','628998735516'] //ur owner number
 global.ownername = "Renz Ganteng"
-global.ytname = "YT: Renz GTPS" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: Renz" //ur yt chanel name
+global.socialm = "GitHub: RenzGans" //ur github or insta name
+global.location = "Indonesia" //ur location
 
 //bot bombdy
 global.botname = "Renz BotZ" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UCaldPN9vH-LNBrBlP1efQKg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Renz Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.author = "🦄RenzStoreDL"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6281250365581'] //ur owner tag
-global.ownernummenu = ['6281250365581'] //ur owner number in menu and all
+global.ownernummenu = ['6281250365581','628998735516] //ur owner number in menu and all
 global.watermark = "Renz Bot Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HSSbStv1qCQ8zwapaTqGp3"
@@ -94,23 +94,23 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    success: 'Selesai✓',
+    admin: 'Fitur Hanya Untuk Admin, Makanya jadi admin!',
+    botAdmin: 'Jadiin Gue Admin Dulu, Tolol Banget Lu!',
+    owner: 'Fitur Ini Cuma Buat Owner Gue, Lu Mana Bisa',
+    group: 'Fitur Ini Hanya Bisa Di Group Tolol!',
+    private: 'Fitur Ini Hanya Bisa Di Chat Pribadi Tolol!',
+    bot: 'Fitur Cuma Untuk BOT',
+    wait: 'Lagi Proses Sabar Anj...',
+    linkm: 'Link Nya Mana Tolol?',
+    error: 'Gabisaaaaa!',
+    ban: 'Lu Udah Di Ban Sama Owner, Haha Rasain.',
+    nsfw: 'Fitur Nsfw Blom Aktif, Kontak Owner Buat Aktifin',
+    banChat: 'Bot Sudah Tidak Bisa Digunakan Di Group Ini, Kontak Owner Buat Unban Chat'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 1,
     monayawal: 1000
 }
    global.rpg = {
